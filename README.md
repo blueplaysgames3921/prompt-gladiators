@@ -35,7 +35,7 @@ Prompt Gladiators is a self-hostable, cross-platform app for running live battle
 ### 1. Clone
 
 ```bash
-git clone https://github.com/yourusername/prompt-gladiators
+git clone https://github.com/blueplaysgames3921/prompt-gladiators
 cd prompt-gladiators
 ```
 
